@@ -1,0 +1,17 @@
+I used the Version Control system to copy my tic tact toe game project file into the repository. First I created 
+a new repository called "cse210" through the interface in my personal account in GitHub, and then I copied it and 
+push it the files into that repository. I also learned on a youtube tutorial that git commands 
+are important and easy to understand. 
+These were the commands I used to push my project:
+
+git init
+
+git add system.txt
+
+git status
+
+git commit -m 'system.txt'
+
+git status
+
+git push
