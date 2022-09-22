@@ -10,7 +10,7 @@ git add system.txt
 
 git status
 
-git commit -m 'system.txt'
+git commit -m 'first-commit'
 
 git status
 
